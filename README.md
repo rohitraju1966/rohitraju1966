@@ -30,12 +30,6 @@ Currently building LLM discourse-analysis pipelines for K-12 classrooms at CU Bo
  
 ---
  
-### Stats
- 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitraju1966&show_icons=true&hide=stars&theme=default)
- 
----
- 
 ### Contribution snake
  
 ![snake animation](https://raw.githubusercontent.com/rohitraju1966/rohitraju1966/output/github-contribution-grid-snake-dark.svg)
