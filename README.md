@@ -19,8 +19,6 @@ Currently building LLM discourse-analysis pipelines for K-12 classrooms at CU Bo
 ---
  
 ### Tech
- 
-### Tech
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,ts,postgres,redis,docker,aws,gcp,git)](https://skillicons.dev)
  
