@@ -32,5 +32,5 @@ Currently building LLM discourse-analysis pipelines for K-12 classrooms at CU Bo
  
 ### Elsewhere
  
-[Portfolio](https://rohitraju.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=YOUR-ID)
+[Portfolio](https://rohitraju.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/rohitraju2001/) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=kEs-s9cAAAAJ&hl=en)
  
