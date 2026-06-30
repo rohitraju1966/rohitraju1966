@@ -1,5 +1,5 @@
-<h4>Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="35px"></h4>
-#Rohit Raju
+
+# Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="35px"> Rohit Raju
  
 **AI/ML Engineer building production LLM and agentic systems.**
  
