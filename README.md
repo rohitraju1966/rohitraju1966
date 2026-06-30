@@ -1,4 +1,4 @@
-Hi :wave: 
+<h1>Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="35px"></h1>
 # Rohit Raju
  
 **AI/ML Engineer building production LLM and agentic systems.**
